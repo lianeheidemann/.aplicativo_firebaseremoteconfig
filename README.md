@@ -24,7 +24,14 @@ This project showcases how to use **Firebase Remote Config** to dynamically cont
 
 Watch the app in action with Firebase Remote Config:
 
-https://github.com/lianeheidemann/aplicativo_firebaseremoteconfig/assets/images/video_FirebaseRemoteConfig.mp4
+
+
+<p>
+  <img src="[https://github.com/user-attachments/assets/dd2a47f7-1201-4587-9e5c-4b2cf3e454d2](https://github.com/lianeheidemann/aplicativo_firebaseremoteconfig/assets/images/gif_FirebaseRemoteConfig.gif" width="750">
+</p>
+
+</div>
+
 
 ## 🛠️ Technologies Used
 
