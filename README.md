@@ -34,7 +34,7 @@
 
 - Flutter SDK 3.0 or higher
 - Firebase CLI
-- Android SDK or iOS SDK
+- Android SDK 
 - Active Firebase project
 
 ### Setup Instructions
